@@ -1,0 +1,14 @@
+
+
+
+[data-testid="slackDisplayImage"] {
+    height: 40%;
+    width: 50%;
+    border-radius: 40%;
+    
+    
+}
+[data-testid="currentDayOfTheWeek"], [ data-testid="currentUTCTime"], [data-testid="myTrack"], [data-testid="githubURL"]{
+    font-size: 200%;
+    margin-top: 0%;
+}
